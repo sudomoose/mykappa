@@ -1,0 +1,24 @@
+{
+  "name": "mykappa",
+  "version": "1.0.0",
+  "description": "a pet kappa... because why not!",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudomoose/mykappa.git"
+  },
+  "keywords": [
+    "moose",
+    "kappa",
+    "my"
+  ],
+  "author": "sudomoose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudomoose/mykappa/issues"
+  },
+  "homepage": "https://github.com/sudomoose/mykappa#readme"
+}

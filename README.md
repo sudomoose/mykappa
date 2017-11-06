@@ -1,4 +1,4 @@
-# My Kappa
-A simple npm library for discord
+# MyKappa
+Now, you can have your very own pet Kappa!
 
 ###### Made By: sudomoose

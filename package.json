@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/sudomoose/mykappa/issues"
   },
-  "homepage": "https://github.com/sudomoose/mykappa#readme"
+  "homepage": "https://github.com/sudomoose/mykappa#readme",
+  "dependencies": {}
 }

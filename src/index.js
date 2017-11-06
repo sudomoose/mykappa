@@ -1,3 +1,3 @@
 module.exports = {
-  Base: require('./base/Base')
+  Kappa: require('./kappa/Kappa')
 }

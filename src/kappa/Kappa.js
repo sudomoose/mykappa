@@ -10,6 +10,8 @@ function Kappa(n) {
   this.maxAvailableType = 0;
 }
 
-Kappa.prototype.setType = function (type) {
-
+Kappa.prototype.setType = function (typeSelection) {
+  if(typeSelection >= maxAvailableType) {
+    return `You can't do that! You must be level ${typeSelection} or more to select ${types[typeSelection]}`;
+  }
 };
